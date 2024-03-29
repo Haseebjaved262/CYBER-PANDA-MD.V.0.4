@@ -4,7 +4,7 @@ const chalk = require("chalk");
 
 //
 global.available = true;
-global.autoReadAll = false;
+global.autoReadAll = true;
 global.antitags = true;
 
 
@@ -21,15 +21,15 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+94704274987", "+94704274987"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+94704274987", "+94704274987"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["+94704274987"];
-global.OwnerName = "SACHITH";
-global.BotName = "SACHITH";
+global.Owner = [ "+923129841208"];         //If you want singal number so global.Owner = ['+923129841208'] Change into your number.
+global.OwnerNumber = ["+923129841208"];   //If you want singal number so global.Owner = ['+923129841208'] Change into your number.
+global.ownertag = ["+923129841208"];
+global.OwnerName = "Haseeb Javed";
+global.BotName = "Eternal Thoughts";
 global.packname = "🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋";                             //Do not change.
-global.author = "SACHITH";                               //Do not change.
+global.author = "HASEEB JAVED";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
+global.SupportGroupLink = "https://whatsapp.com/channel/0029VaTiRh1G3R3pORQdS63G";
 
 
 //
@@ -41,12 +41,12 @@ global.openAiAPI = "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";
 
 
 //
-global.location = "HambanThota, Sri Lankan";
+global.location = "Pakistan ";
 global.reactmoji = "💞";
 global.themeemoji = "😂";
 global.vidmenu = { url: 'https://tenor.com/en-CA/view/anonymous-hacker-smooth-gif-10171911193797826570%9D%90%95-12-14' };
 global.websitex = "https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.4";
-global.lolhuman = "Sachith";
+global.lolhuman = "Haseeb Javed";
 
 
 //
@@ -80,18 +80,18 @@ global.ntilink = []
 //
 global.mess = {
   jobdone: 'Here you go...',
-  useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
+  useradmin: 'Sorry, only *Group Admins* can use this command *ET*!',
   botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-  botowner: 'Only my *Owner* can use this command, Baka!',
-  grouponly: 'This command is only made for *Groups*, Baka!',
-  privateonly: 'This command is only made for *Private Chat*, Baka!',
+  botowner: 'Only my *Owner* can use this command, ET!',
+  grouponly: 'This command is only made for *Groups*, ET!',
+  privateonly: 'This command is only made for *Private Chat*, ET!',
   botonly: 'Only the *Bot itself* can use this command!',
   waiting: 'Just Wait...',
-  nolink: 'Please provide me *link*, Baka!',
+  nolink: 'Please provide me *link*, ET!',
   error: 'An error occurd!',
   banned: 'You are *Banned* fron using commands!',
   bangc: 'This Group is *Banned* from using Commands!',
-  nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
+  nonsfw: 'Dont be a pervert guy! This is not a NSFW enabled group!'
 
 }
 
